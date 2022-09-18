@@ -41,10 +41,7 @@ function onClickHandler(event) {
     instance.close ();
 
   }
-                            
- 
-// 'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg'
-
+                      
 }
 
 // refClose.addEventListener("keydown", (event) => {   //закриття
